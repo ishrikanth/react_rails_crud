@@ -38,7 +38,7 @@ class NewFruit extends React.Component {
                     this.props.addNewFruit(fruit)
                 })
         } else {
-            alert("Form has errors.")
+            // alert("Form has errors.")
         }
     }
 
